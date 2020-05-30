@@ -1,1 +1,5 @@
 node_modules
+scss
+js
+package-lock.json
+gulpfile.js
